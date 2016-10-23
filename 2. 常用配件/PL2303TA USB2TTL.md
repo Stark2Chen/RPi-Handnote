@@ -1,0 +1,7 @@
+#PL2303TA USB2TTL下载线
+
+颜色标识：
+红色（RED）：VCC
+黑色（BLACK）：GND
+白色（WHITE）：RXD
+绿色（GREEN）：TXD
